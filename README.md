@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @UniqueRoblox
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-UniqueRoblox/UniqueRoblox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Im UniqueDummy, also UniqueRoblox
+I am an roblox developer that focuses on scripting. 
+I plan on creating a huge module to make scripting easier for scripters around the world, I will add it to this repository or whatever
